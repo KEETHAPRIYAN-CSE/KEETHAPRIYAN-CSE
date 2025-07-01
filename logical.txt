@@ -1,0 +1,11 @@
+An Arithmetic Progression is a sequence of numbers where the difference between consecutive terms is constant.
+The general formula to find the n-th term is
+
+FORMULA:
+      nth_term = first_term + (n - 1) * common_difference
+
+a is the first term
+n is the number of terms
+d is the common difference
+ 
+ Use for loop to print the terms of the AP
