@@ -12,5 +12,6 @@ public class arithmetic {
         int n = vari.nextInt();
         int nthTerm = a + (n - 1) * d;
         System.out.println("The nth term of the arithmetic progression is: " + nthTerm);
+        vari.close();
     }
 }
