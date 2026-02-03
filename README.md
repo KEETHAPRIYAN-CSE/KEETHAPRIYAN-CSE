@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Priyan
 ### What you looking for
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=ML;API;Agentic+AIPython;Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=ML;API;Agentic+AI;Python;Java)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
